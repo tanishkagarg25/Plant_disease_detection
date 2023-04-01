@@ -12,3 +12,4 @@ Analysis of the number of images of apple plant leaves for different classes[19]
 To avoid overfitting of the model, data augmentation is done either through separate algorithms[10] or through Keras ImageDataGeneration Class[18] which will perform flip, rotation, brightness variation, blurring and skew operations at once on each image and will generate the required number of augmented images for each original.
 #### E. MODEL BUILDING AND TRAINING
 #### F. COMPARING WITH OTHER MODELS
+### Our model gives 97% accuracy
